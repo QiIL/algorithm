@@ -1,0 +1,7 @@
+node_modules
+
+# 压缩包
+*.zip
+*.bz2
+*.gz
+*.rar
